@@ -1,9 +1,9 @@
 [submodule "backend"]
 	path = backend
-	url = https://gitlab.com/fuacs/backend.git
+	url = https://github.com/tda9/fuacs-backend-service.git
 [submodule "frontend-web"]
 	path = frontend-web
-	url = https://gitlab.com/fuacs/frontend-web.git
+	url = https://github.com/tda9/fuacs-frontend.git
 [submodule "recognition-service"]
 	path = recognition-service
-	url = https://gitlab.com/fuacs/recognition-service.git
+	url = https://github.com/tda9/fuacs-recognition-service.git
