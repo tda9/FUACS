@@ -333,7 +333,7 @@ The project includes GitLab CI configuration with:
 
 ## License
 
-[Specify your license here]
+FPT University
 
 ## Support
 
